@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SOOHEE JUNG"
 description              : "Sharing my life"
-url                      : "https://soohee85.github.io"
+url                      : "https://sjung7nc.github.io"
 baseurl                  : "/blog"
-repository               : "soohee85/minimal-mistakes"
+repository               : "sjung7nc/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
